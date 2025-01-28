@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Full-Stack Developer | 💻 Software Engineering Student (Last Semester)<br><br>🔧 Experience: 6 months at Qutham Technologies as a Full-Stack MEAN Developer<br><br>🚀 Seeking Collaboration: Open to collaborating on exciting tech projects<br><br>🎓 Currently Learning: Entrepreneurship & AI<br><br>💡 Ask Me Anything: Always ready to share knowledge and insights about tech
+👨‍💻 Front End Develpor  | 💻 Software Engineering Student (Fourt Semester )<br><br>🔧 Experience: 1 month at Codealpha Technologies as a Front End Developer<br><br>🚀 Seeking Collaboration: Open to collaborating on exciting tech projects<br><br>🎓 Currently Learning: Entrepreneurship & Backend<br><br>💡 Ask Me Anything: Always ready to share knowledge and insights about tech
 
 
 ## 🌐 Socials:
