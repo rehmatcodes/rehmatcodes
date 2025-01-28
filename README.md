@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router">
 </p>
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rehmatcodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+  ![GitHub Stats](https://github-readme-stats.githubapi.com/api?username=rehmatcodes&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rehmatcodes&theme=dark&hide_border=true)<br/>
 
